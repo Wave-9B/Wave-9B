@@ -28,22 +28,19 @@ Music Producer and Developer from Brazil - My passion for music inspired my crea
 </p>
 
 <p>🎓 degrees in Game Development and Music Production.</p>
-<p>📚 I've been studying Mobile Development and working with Music and Video Editing.</p>
+<p>🎯 Currently learning Mobile Development to expand my professional options. I work with Music and Video Editing.</p>
 <p>🎮 I love video games and my PS3 is my "xodó".</p>
 
-<p>my contacts 😄🤙</p>
-<a href="https://www.linkedin.com/in/eduardo-brenga/"">
-  <img alt="LinkedIn" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40"/>
-</a>
+<p>my contacts and music 😄🤙</p>
+<a href="https://www.linkedin.com/in/eduardo-brenga" target="_blank"><img align="left" alt="LinkedIn" width="40px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" />
 
+<a href="https://www.instagram.com/wave9b" target="_blank"><img align="left" alt="Instagram" width="40px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/insta.svg" />
 <a href="https://youtube.com/@wave9b">
-  <img alt="YouTube" src="https://www.svgrepo.com/show/13671/youtube.svg" height="40" />
+  <img align="left" alt="YouTube" src="https://www.svgrepo.com/show/450397/youtube.svg" height="40" />
 </a>
+<a href="https://www.instagram.com/wave9b" target="_blank"><img align="left" alt="Instagram" width="40px" src="https://www.svgrepo.com/show/355256/spotify.svg" />
 
-<a href="https://instagram.com/wave9b">
-  <img alt="Instagram" src="https://www.svgrepo.com/show/303211/instagram-circle-logo.svg" height="40" />
-</a>
-
+<br> </br>
 <p>
 <div>
 <a href="https://github.com/Wave-9B">
