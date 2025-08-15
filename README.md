@@ -9,7 +9,7 @@ Music Producer and Developer from Brazil - My passion for music inspired my crea
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="32" alt="Dart" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="32" alt="C#" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="32" alt="Unity" />
-  <img src="https://github.com/Wave-9B/Wave-9B/blob/main/assets/fmod.svg" height="28" alt="FMOD" />
+ <img src ="https://github.com/Wave-9B/Wave-9B/blob/main/assets/fmod.svg" height="32" alt="FMOD" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="32" alt="Git" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="32" alt="JavaScript" />
 </p>
