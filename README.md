@@ -16,15 +16,15 @@ Music Producer and Developer from Brazil - My passion for music inspired my crea
 
 #### 🎵 Music Production
 <p>
-  <img src= height="28" alt="FL Studio" />
-  <img src="https://img.shields.io/badge/Reaper-000?logo=reaper&logoColor=white" height="28" alt="Reaper" />
-  <img src="https://cdn.simpleicons.org/avidprotools/6C2784" height="32" alt="Pro Tools" />
+  <img src= "https://github.com/Wave-9B/Wave-9B/blob/main/assets/fl_studio.svg" height="32" alt="FL Studio" />
+  <img src="https://github.com/Wave-9B/Wave-9B/blob/main/assets/reaper.svg" height="32" alt="Reaper" />
+  <img src="https://github.com/Wave-9B/Wave-9B/blob/main/assets/pro_tools.svg" height="32" alt="Pro Tools" />
 </p>
 
 #### 🎬 Video Editing
 <p>
   <img src="https://cdn.simpleicons.org/davinciresolve/00baff" height="32" alt="DaVinci Resolve" />
-  <img src="https://www.svgrepo.com/show/504203/capcut.svg" height=32 />
+  <img src="https://github.com/Wave-9B/Wave-9B/blob/main/assets/capcut.svg" height=32  alt="CapCut"/>
 </p>
 
 
