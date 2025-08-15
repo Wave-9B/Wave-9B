@@ -31,6 +31,9 @@ Music Producer and Developer from Brazil - My passion for music inspired my crea
 <p>🎯 Currently learning Mobile Development to expand my professional options. I work with Music and Video Editing.</p>
 <p>🎮 I love video games and my PS3 is my "xodó".</p>
 
+💻 Feel free to know my repos :)
+<br> </br>
+
 <p>my contacts and music 😄🤙</p>
 <a href="https://www.linkedin.com/in/eduardo-brenga" target="_blank"><img align="left" alt="LinkedIn" width="40px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" />
 
