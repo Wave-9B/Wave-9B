@@ -27,7 +27,7 @@ Music Producer and Developer from Brazil - My passion for music inspired my crea
   <img src="https://github.com/Wave-9B/Wave-9B/blob/main/assets/capcut.svg" height=32  alt="CapCut" title="CapCut"/>
 </p>
 
-<p>🎓 degrees in Game Development and Music Production.</p>
+<p>🎓 Degrees in Game Development and Music Production.</p>
 <p>🎯 Currently learning Mobile Development to expand my professional options. I work with Music and Video Editing.</p>
 <p>🎮 I love video games and my PS3 is my "xodó".</p>
 
