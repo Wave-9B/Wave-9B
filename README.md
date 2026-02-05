@@ -21,12 +21,6 @@ Music Producer and Developer from Brazil - My passion for music inspired my crea
   <img src="https://github.com/Wave-9B/Wave-9B/blob/main/assets/pro_tools.svg" height="28" alt="Pro Tools" title="Pro Tools" />
 </p>
 
-#### 🎬 Video Editing
-<p>
-  <img src="https://cdn.simpleicons.org/davinciresolve/00baff" height="32" alt="DaVinci Resolve" title="DaVinci Resolve" />
-  <img src="https://github.com/Wave-9B/Wave-9B/blob/main/assets/capcut.svg" height=32  alt="CapCut" title="CapCut"/>
-</p>
-
 <p>🎓 Degrees in Game Development and Music Production.</p>
 <p>🎯 Currently studying CS50x and learning Mobile Development to expand my professional options. I work with Audio editing.</p>
 <p>🎮 I love video games and my PS3 is my "xodó".</p>
