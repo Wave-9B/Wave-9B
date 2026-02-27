@@ -22,7 +22,7 @@ Music Producer and Developer from Brazil - My passion for music inspired my crea
 </p>
 
 <p>🎓 Degrees in Game Development and Music Production.</p>
-<p>🎯 Currently studying CS50x and learning Mobile Development to expand my professional options. I work with Audio editing.</p>
+<p>🎯 Currently studying CS50x and Mobile Development (Flutter). I work with Audio editing.</p>
 <p>🎮 I love video games and my PS3 is my "xodó".</p>
 
 💻 Feel free to know my repos :)
